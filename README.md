@@ -77,9 +77,9 @@
 
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<!-- <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+![Quote](https://github-readme-quotes.herokuapp.com/quote) -->
 
-<h2 align="center">  </h2>
+<h2 align="center"> Profile Views </h2>
 ![](https://komarev.com/ghpvc/?username=BuiThang652)
