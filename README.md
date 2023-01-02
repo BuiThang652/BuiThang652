@@ -81,5 +81,5 @@
 <br>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote) -->
 
-<h2 align="center"> Profile Views </h2>
-![](https://komarev.com/ghpvc/?username=BuiThang652)
+<!-- <h2 align="center"> Profile Views </h2>
+![](https://komarev.com/ghpvc/?username=BuiThang652) -->
